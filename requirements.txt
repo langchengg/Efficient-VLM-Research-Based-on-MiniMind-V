@@ -1,0 +1,14 @@
+torch>=2.1.0
+transformers>=4.38.0
+accelerate>=0.25.0
+bitsandbytes>=0.42.0
+auto-gptq>=0.7.1
+autoawq>=0.2.1
+datasets>=2.16.0
+sentencepiece
+protobuf
+matplotlib
+pandas
+tabulate
+tqdm
+psutil

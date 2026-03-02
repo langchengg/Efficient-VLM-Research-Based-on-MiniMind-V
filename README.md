@@ -89,7 +89,7 @@ We benchmarked the model across different pruning ratios on an Apple M4 chip usi
 ### 1. Environment Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/EfficientVLM.git
+git clone https://github.com/langchengg/EfficientVLM.git
 cd EfficientVLM
 pip install -r requirements.txt
 ```
@@ -164,6 +164,6 @@ This project aligns with edge-device AI efficiency research, drawing inspiration
   title={EfficientVLM: Adaptive Visual Token Pruning for Edge Devices},
   author={Your Name},
   year={2026},
-  url={https://github.com/YOUR_USERNAME/EfficientVLM}
+  url={https://github.com/langchengg/EfficientVLM}
 }
 ```
